@@ -1,3 +1,4 @@
 Nama :Ispandiar
 NPM  :22105110015
-Prodi:D3 Teknik Informatika
+Program Studi:D3 informatika
+Fakultas :Teknik informatika
